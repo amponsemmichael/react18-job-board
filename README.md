@@ -1,6 +1,6 @@
-# Developers Home
+# react18-job-board
 
-Developers Home is a React-based web application that serves as a platform for job seekers and employers in the React development field. The application provides features such as job listings, job posting, and job management.
+react18-job-board is a React-based web application that serves as a platform for job seekers and employers in the React development field. The application provides features such as job listings, job posting, and job management.
 
 ## Features
 
